@@ -84,9 +84,7 @@ header {
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Added a screenshot
 
 ```md
 ![Horiseon-ss](develop\assets\images\Horiseon-ss.png)
@@ -100,14 +98,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Author Info
 
 ```md
-### Anthony Nguyen
+## Anthony Nguyen
 
 * [Github](https://github.com/Blackswan1010)
 ```
 
 ## Credits
 
-
+Everyone in class
 
 ## License
 
