@@ -93,6 +93,7 @@ Added a screenshot
 ## Learning Points 
 
 -how to consolidate and organize repititive code
+<br>
 -how to use semenatic elements instead of non-semantic to be clearly defined in the source code
 
 ## Author Info
