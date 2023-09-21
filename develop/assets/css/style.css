@@ -75,14 +75,14 @@ p {
 }
 
 /* renamed class contents to section  */
-.contents {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /* renamed class benefits to aside */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
