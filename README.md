@@ -13,6 +13,8 @@
 
 Consolidating/refactoring code and changing non-semantic to semantic elements.
 
+Deployed Site [https://blackswan1010.github.io/horiseon-refactor/](https://blackswan1010.github.io/horiseon-refactor/)
+
 
 ## Code Refactor Example
 
