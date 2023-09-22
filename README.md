@@ -37,7 +37,7 @@ What are the steps required to install your project? Provide a step-by-step desc
     </div>
 ```
 
-Converting the above non-semantic div with the class of 'header' to an appropriate [<header> semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp). 
+Converting the above non-semantic div with the class of 'header' to an appropriate semantic element
 
 ```html
 <header>
@@ -84,11 +84,10 @@ header {
 
 ## Usage 
 
-Added a screenshot
+Added screenshots
 
-```md
-![Horiseon-ss](develop\assets\images\Horiseon-ss.png)
-```
+![example of non-semantic to semantic code](assets\images\Horiseon-ss.png)
+![Another example](assets\images\Another-example.png)
 
 ## Learning Points 
 
@@ -98,15 +97,14 @@ Added a screenshot
 
 ## Author Info
 
+#### Anthony Nguyen
 ```md
-## Anthony Nguyen
-
 * [Github](https://github.com/Blackswan1010)
 ```
 
 ## Credits
 
-Everyone in class
+Everyone in bootcamp class
 
 ## License
 
