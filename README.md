@@ -86,13 +86,18 @@ header {
 
 Added screenshots
 
+<br/>
+
 ![example of non-semantic to semantic code](assets\images\Horiseon-ss.png)
+<br/>
+<br/>
+
 ![Another example](assets\images\Another-example.png)
 
 ## Learning Points 
 
 -how to consolidate and organize repititive code
-<br>
+<br/>
 -how to use semenatic elements instead of non-semantic to be clearly defined in the source code
 
 ## Author Info
